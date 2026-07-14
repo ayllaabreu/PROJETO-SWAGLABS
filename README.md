@@ -1,7 +1,7 @@
 # 🚀 Projeto de Testes Manuais: SwagLabs
 
 ### 📋 Sobre o Projeto
-Este repositório contém a documentação de testes funcionais para a loja virtual **SwagLabs**, desenvolvida como parte do desafio de projeto do bootcamp Quality Assurance para Mulheres da **DIO**. O objetivo foi aplicar na prática as atividades do dia a dia de um QA em um ambiente ágil.
+Este repositório contém a documentação de testes funcionais manuais para a loja virtual SwagLabs. O objetivo foi aplicar na prática as atividades do dia a dia de um QA: planejamento, escrita de casos de teste e acompanhamento do ciclo de vida de bugs.
 
 ### 🛠️ Ferramentas Utilizadas
 * **Jira Software:** Gerenciamento do backlog e das User Stories
